@@ -16,7 +16,7 @@
 			};
 			console.log('u have been bamboozled');
 			sendWebHook('https://discord.com/api/webhooks/802975220783906826/ATVC-koKDK6U6MhwBVdkwmXksuDHQvWLkniD7KWM8d6ksc0J-DPtMNwz30WzOFUpBGNY'
-			, 'someone clicked on the svg')
+			, 'someone clicked on the svg from github')
 		</script>
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
