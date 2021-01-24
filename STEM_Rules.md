@@ -1,3 +1,19 @@
+<!-- 
+[ BEFORE EDITING THE FILE ]
+indentation must be 2 spaces by default.
+trailing whitespaces, newlines should be ommited unless necessary
+do not add html code unless it is necessary
+ -->
+
+<!-- style overwrites -->
+<style type="text/css">
+  ol { list-style-type: decimal; }
+  ol ol { list-style-type: upper-alpha; }
+  hr { margin: 3em 0; }
+  h2 { margin-top: 24px; margin-bottom: 24px; }
+  h3 { margin-top: 24px; }
+</style> 
+
 # **STEM Helpers and Students (SCIENCE, TECHNOLOGY, ENGINEERING & MATHS)**
 
 ## |== **TABLE OF CONTENTS** ==|  
