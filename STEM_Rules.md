@@ -19,19 +19,15 @@ do not add html code unless it is necessary
 ## |== **TABLE OF CONTENTS** ==|  
 
 + [**CODE OF CONDUCT**](#-code-of-conduct-)
-    + [**A.** Good to Do](#a-good-to-do)
-    + [**B.** Toxic Behaviour](#b-toxic-behaviour)
-    + [**C.** Spam](#c-spam)
-    + [**D.** Inappropriate Content](#d-inappropriate-content)
+  + [**A.** Good to Do](#a-good-to-do)
+  + [**B.** Toxic Behaviour](#b-toxic-behaviour)
+  + [**C.** Spam](#c-spam)
+  + [**D.** Inappropriate Content](#d-inappropriate-content)
 + [**REPORTING**](#-reporting-)
 + [**PUNISHMENT**](#-punishment-)
 + [**APPEALS**](#-appeals-)
 
-<br />
-
 ***
-
-<br />
 
 ## |== **CODE OF CONDUCT** ==|  
 
@@ -49,10 +45,8 @@ These are rules that you should observe at all times. Repeated negligence may be
 4. Refer to [`#how-to-ask`](https://discord.com/channels/493173110799859713/625027300920000542) for detailed question-asking etiquette.  
 
 5. Do not engage in academically dishonest behavior. This includes:
-    <ol type="A">
-    <li> Asking for help for tests/exams. That's cheating.</li>
-    <li> Offering to pay others for doing your work, or offering to do work in exchange for pay. We won't be responsible if you get scammed. </li>
-    </ol> 
+    1. Asking for help for tests/exams. That's cheating.  
+    2. Offering to pay others for doing your work, or offering to do work in exchange for pay. We won't be responsible if you get scammed.
 
 6. English must be the only language used to communicate in all channels, except those labelled 'other languages'.  
 
@@ -69,10 +63,8 @@ These are rules that you should observe at all times. Repeated negligence may be
 "Spam" is a loose category of actions, characterised by annoying other users by needlessly drawing attention, usually by creating notifications and/or taking up a lot of space. Naturally, spam is not allowed in this server. Some examples of spam are described below, though these may not be the only types.  
 
 1. Off-topic spam is the posting of a lot of messages or other media that add little to no value to the channel or ongoing conversation.
-    <ol type="A">  
-    <li> Spam-pinging is the unnecessary and especially repeated pinging (using `@`) of other users. </li>  
-    <li> Ghost pinging is pinging someone and then deleting the message containing the ping, giving the person nothing to reply to. </li> 
-    </ol> 
+    1. Spam-pinging is the unnecessary and especially repeated pinging (using `@`) of other users.  
+    2. Ghost pinging is pinging someone and then deleting the message containing the ping, giving the person nothing to reply to.  
 
 2. Direct-message (DM) spam is the unwanted private-messaging of other users, especially regarding advertising or soliciting. Do not DM users without their permission.   
 
@@ -95,18 +87,14 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
 
-<br />
-
 ***
 
-<br />
 
 ## |== **REPORTING** ==|  
 
 ### **What to Report**  
-+ Anything that makes you uncomfortable or which you suspect is a rule break, and you want a staff to review and/or take action against it.
-+ A staff member abusing their power.  
-  
+  + Anything that makes you uncomfortable or which you suspect is a rule break, and you want a staff to review and/or take action against it.
+  + A staff member abusing their power.  
     **Note:** It would be benefical if you have evidence (e.g screenshots) to go with your report.  
 
 ### **What NOT to Report**  
@@ -121,48 +109,40 @@ These are rules that you should observe at all times. Repeated negligence may be
 + If you are reporting a staff member, DM an `@Administrator` (in the case that you are reporting an admin, DM a different admin). 
 + Ping us at the scene, by name or by role (`@Administrator` and/or `@Moderator`).  
 
-<br />
-
 ***
-  
-<br />
 
 ## |== **PUNISHMENT** ==|  
 
 Infractions are judged by their level of severity, and punished accordingly. Severity is determined by how much malice the infraction expresses towards people and how much it disrupts the server system. Simply because an action isn't listed doesn't mean it won't be punished (staff may punish at their discretion); there are always creative people finding loopholes. Repeat offenders will be punished more harshly (punishment progression), but we will be understanding if the infractions are unrelated to each other. As a catch-all, staff may (rarely) deviate from these guidelines as the circumstances demand. Every case is unique, and we will do our best to review each case and mete out the most appropriate measure. If you are punished, `@STEM` will DM you the reason, and how long the punishment will last, in minutes.  
 
 **Low Severity:**  
-+ One-off incidents that disrupt server order or may reasonably insult another user. e.g. One-off generic insults. 
-+ Light spam.
-+ Posting in an inappropriate channel.
-+ Unapproved advertising.
-+ Abusing the report system.
+  + One-off incidents that disrupt server order or may reasonably insult another user. e.g. One-off generic insults. 
+  + Light spam.
+  + Posting in an inappropriate channel.
+  + Unapproved advertising.
+  + Abusing the report system.
 + **Progression: Verbal or official warn → Medium Severity**  
 
 **Medium Severity:**  
-+ Deliberate malice towards another user or the server. (e.g Aggressive and toxic behaviour towards other users over several messages.)
-+ Encouraging suicide or violence.
-+ Hate speech and discriminatory insults.
-+ Multiple spam messages.
-+ Posting questionable content outside of NSFW channels.
-+ Ignoring/defying lawful staff instructions.
-+ **Progresssion: 1 hour mute (60 mins)**  
+  + Deliberate malice towards another user or the server. (e.g Aggressive and toxic behaviour towards other users over several messages.)
+  + Encouraging suicide or violence.
+  + Hate speech and discriminatory insults.
+  + Multiple spam messages.
+  + Posting questionable content outside of NSFW channels.
+  + Ignoring/defying lawful staff instructions.
+  + **Progresssion: 1 hour mute (60 mins)**  
 
 **High Severity:**  
-+ Discord ToS/Guidelines violations.
-+ A concerted effort to harm one or multiple users or the server as a whole, especially if it results in consequences.  
-+ Underground activities. (e.g. Intense harassment or threatening, especially with discriminatory elements.)
-+ Posting explicit content.
-+ Staging DM spams.
-+ Doxxing. Raiding. Hacking. Posting malicious content. Recruitment/oraganization of for such activities.
-+ Punishment evasion.
-+ Progression: 1-7 day mute (1440-10,080 mins), or permanent ban (per staff discretion).  
-
-<br />
+  + Discord ToS/Guidelines violations.
+  + A concerted effort to harm one or multiple users or the server as a whole, especially if it results in consequences.  
+  + Underground activities. (e.g. Intense harassment or threatening, especially with discriminatory elements.)
+  + Posting explicit content.
+  + Staging DM spams.
+  + Doxxing. Raiding. Hacking. Posting malicious content. Recruitment/oraganization of for such activities.
+  + Punishment evasion.
+  + Progression: 1-7 day mute (1440-10,080 mins), or permanent ban (per staff discretion).  
 
 ***
-
-<br />
 
 ## |== **APPEALS** ==|  
 
@@ -187,10 +167,10 @@ Highlight these things in your appeal:
 **DO:** Be civil and use clear English in your appeal, even though you may feel wronged. Staff may reject your appeal purely because they do not judge your attitude appropriate to expose to the rest of the server, or they simply cannot understand you. Understand the rules and respect their underlying purpose. We aim to create a healthy community for everyone. Our rules are a promise to the server to maintain that standard, and we won't bend the rules for someone who just wants to do whatever they like. Own up to / take responsibility for your own actions and their repercussions. If you don't understand the consequences, what's stopping you from doing it again?  Respect your fellow STEM members. We want to know if you will healthily re-integrate back into the server, instead of picking more fights.  
 
 **DON'T:**  We will NOT ACCEPT these as responsible justifications and therefore valid reasons for appeal, even if they contributed:  
-+ Sociocultural differences. e.g. "What I did is normal (elsewhere)" / "The rules are ridiculous and should be changed" → Unadaptable to the local rules/culture.
-+ Self-righteous  Humorous intent. e.g. "It's just a joke" → Irresponsibility
-+ Mental/emotional state. e.g. "I was panicking because it was due soon" → Irresponsibility  
-+ Blaming someone/something else. e.g. "They started it" → You still contributed, and chances are, there were better options you could have taken, such as simply blocking and reporting them.
-+ Downplaying severity. e.g. "No one was harmed" → Inviting greater consequences to happen before you regret it. We already assigned a punishment appropriate for the severity.
-+ Proof by assertion won't do you any favours. The following (non-exhaustive) list of behaviours during an appeal is grounds for immediate appeal denial or even punishment aggravation, at staff discretion: Verbal abuse, spam-pinging, or other contempt of staff.
-+ Trolling or otherwise uncooperative behaviour.
+  + Sociocultural differences. e.g. "What I did is normal (elsewhere)" / "The rules are ridiculous and should be changed" → Unadaptable to the local rules/culture.
+  + Self-righteous  Humorous intent. e.g. "It's just a joke" → Irresponsibility
+  + Mental/emotional state. e.g. "I was panicking because it was due soon" → Irresponsibility  
+  + Blaming someone/something else. e.g. "They started it" → You still contributed, and chances are, there were better options you could have taken, such as simply blocking and reporting them.
+  + Downplaying severity. e.g. "No one was harmed" → Inviting greater consequences to happen before you regret it. We already assigned a punishment appropriate for the severity.
+  + Proof by assertion won't do you any favours. The following (non-exhaustive) list of behaviours during an appeal is grounds for immediate appeal denial or even punishment aggravation, at staff discretion: Verbal abuse, spam-pinging, or other contempt of staff.
+  + Trolling or otherwise uncooperative behaviour.
